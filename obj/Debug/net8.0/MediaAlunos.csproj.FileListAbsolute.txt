@@ -1,0 +1,14 @@
+C:\PROJETO_CSHARP\MediaAlunos\bin\Debug\net8.0\MediaAlunos.exe
+C:\PROJETO_CSHARP\MediaAlunos\bin\Debug\net8.0\MediaAlunos.deps.json
+C:\PROJETO_CSHARP\MediaAlunos\bin\Debug\net8.0\MediaAlunos.runtimeconfig.json
+C:\PROJETO_CSHARP\MediaAlunos\bin\Debug\net8.0\MediaAlunos.dll
+C:\PROJETO_CSHARP\MediaAlunos\bin\Debug\net8.0\MediaAlunos.pdb
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.AssemblyInfoInputs.cache
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.AssemblyInfo.cs
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.dll
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\refint\MediaAlunos.dll
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.pdb
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.genruntimeconfig.cache
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\ref\MediaAlunos.dll
