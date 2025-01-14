@@ -12,3 +12,4 @@ C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\refint\MediaAlunos.dll
 C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.pdb
 C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.genruntimeconfig.cache
 C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\ref\MediaAlunos.dll
+C:\PROJETO_CSHARP\MediaAlunos\obj\Debug\net8.0\MediaAlunos.sourcelink.json
